@@ -19,7 +19,9 @@ section {
   width: 270px;
   height: 450px;
   border-radius: 10px;
-  box-shadow: 0 4px 8px rgba(54, 51, 51, 1);
+
+  box-shadow: 0 4px 8px rgb(255, 0, 0);
+
   border: 1px solid rgb(255, 153, 0);
   text-align: center;
   padding: 20px;
@@ -31,13 +33,17 @@ section {
 h2 {
   font-size: 20px;
   margin-top: 0;
-  color: #000000;
+
+  color: #e61414;
+
 }
 
 .precio {
   font-size: 36px;
   margin-top: 10px;
-  color: #ff9900;
+
+  color: #000000;
+
 }
 
 p {
@@ -57,7 +63,9 @@ hr {
   display: inline-block;
   padding: 10px 20px;
   color: #ffffff;
-  background-color: #ff9900;
+
+  background-color: #000000;
+
   border: none;
   border-radius: 5px;
   font-size: 18px;
